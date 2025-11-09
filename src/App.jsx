@@ -12,7 +12,7 @@ function App() {
                 <p className="text-white">
                     Siden er under konstruksjon! Midlertidig sjekk ut{" "}
                     <a
-                        href="https://instagram.com/"
+                        href="https://www.instagram.com/grafiskdesignervilde"
                         target="_blank"
                         className="underline hover:text-amber-600 transform duration-200"
                     >
@@ -20,7 +20,7 @@ function App() {
                     </a>{" "}
                     eller{" "}
                     <a
-                        href="https://linkedin.com/"
+                        href="https://www.linkedin.com/in/vilde-rognlien-6b377236b/"
                         target="_blank"
                         className="underline hover:text-amber-600 transform duration-200"
                     >
