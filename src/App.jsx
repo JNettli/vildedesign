@@ -12,7 +12,7 @@ function App() {
                 <p className="text-white">
                     Siden er under konstruksjon! Midlertidig sjekk ut{" "}
                     <a
-                        href="https://www.instagram.com/grafiskdesignervilde"
+                        href="https://www.instagram.com/vilderognliendesign"
                         target="_blank"
                         className="underline hover:text-amber-600 transform duration-200"
                     >
